@@ -66,7 +66,7 @@
 
 ## 如何使用
 
-### OpenClaw / Qclau 等支持 Skill 命令的客户端
+### OpenClaw 等支持 Skill 命令的客户端
 
 ```
 /skill how_to_claim
